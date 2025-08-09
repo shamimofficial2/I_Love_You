@@ -1,5 +1,8 @@
 import turtle as t
 
+screen = t.Screen()
+screen.setup(width = 1.0, height = 1.0)
+
 t.title("Turtle Squire Pattern")
 t.color("red")
 t.bgcolor("black")
