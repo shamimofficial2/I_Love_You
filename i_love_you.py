@@ -3,7 +3,7 @@ import turtle as t
 screen = t.Screen()
 screen.setup(width = 1.0, height = 1.0)
 
-t.title("Turtle Squire Pattern")
+t.title("I LOVE YOU")
 t.color("red")
 t.bgcolor("black")
 t.pensize(2)
@@ -99,3 +99,4 @@ t.end_fill()
 
 t.exitonclick()
 print("\033[31mI really love you from the depths of my heart ❤️\033[0m")
+
